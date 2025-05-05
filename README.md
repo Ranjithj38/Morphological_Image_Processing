@@ -1,5 +1,5 @@
 # Topic: Morphological Image Processing
-Repository link: 
+Repository link: https://github.com/Ranjithj38/Morphological_Image_Processing/blob/main/README.md
 ## Morphological Image Processing – Fingerprint Cleaning
 Morphological image processing involves operations that process images based on shapes. It is primarily used for the analysis of binary images but can be extended to grayscale images. These techniques are often used to:
 Remove noise
